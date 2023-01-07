@@ -10,7 +10,7 @@ My name is Angel, I am a computing graduate with a first-class honours degree fr
 
 |CODING LANGUAGES|TECHNOLOGIES   |SPOKEN LANGUAGES                                 |
 |----------------|---------------|-------------------------------------------------|
-|Python          |Git            |Spanish - Native proficiency                     |
+|Python          |Git            |Spanish – Native proficiency                     |
 |Java            |PyCharm        |English – fluent/Professional working proficiency|
 |Kotlin          |Django         ||
 |HTML            |Visual Studio  ||
