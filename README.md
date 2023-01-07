@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello... 👋😄
+My name is Angel, I am a computing graduate with a first-class honours degree from the University of Greenwich, and a certified software engineer recently completing courses from the following  academies, HyperionDev and Mosh. I am actively seeking a position within the IT industry, with a view to developing a career in software development, software engineering, or mobile application development. I am an active team player and eager to utilize my current skills, knowledge, and passion for programming in a fast-paced environment. 
+##
+
+
+
+
+
+
+
 
 <!--
 **Trycondiuis/Trycondiuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
