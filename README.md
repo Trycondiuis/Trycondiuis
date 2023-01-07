@@ -25,4 +25,4 @@ My name is Angel, I am a computing graduate with a first-class honours degree fr
 ## Interests 💭
 I have a keen interest in computing science and technology, because of the benefits they bring to society. I have built, customize and upgrade my own computers. Currently I am working on a project based on an android application that teaches how to properly pronounce words in English/Spanish. I was part of the university of Greenwich computing society volunteering as ambassador mentoring and supporting other students.
 ## How to reach me 📫
-Emails: agd.jobs2000@hotmail.com
+Email: agd.jobs2000@hotmail.com
