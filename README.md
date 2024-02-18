@@ -6,7 +6,7 @@
 
 ## Hello... 👋😎
 I am a Project Support Officer with a first-class bachelor's degree in computing and a certified software engineer. I aspire to build a career in software development, software engineering, web development, or mobile application development. I have actively participated in the development of various projects, both in software and administration. I am enthusiastic about applying my current skills, knowledge, experience, and passion
-for Python, Java, SQLite, MySQL, Microsoft SQL Server, SQLite, and many more that I will be listing below.
+for Python, Java, SQLite, MySQL, Microsoft SQL Server, and many more in a practical and fast-paced environment.
 ## Some of my skills 🧠 
 
 |CODING LANGUAGES|TECHNOLOGIES   |SPOKEN LANGUAGES                                 |
