@@ -5,7 +5,8 @@
 </picture>
 
 ## Hello... 👋😎
-My name is Angel, I am a computing graduate with a first-class honours degree from the University of Greenwich, and a certified software engineer recently completing courses from the following  academies, HyperionDev and Mosh. I am actively seeking a position within the IT industry, with a view to developing a career in software development, software engineering, or mobile application development. I am an active team player and eager to utilize my current skills, knowledge, and passion for programming in a fast-paced environment. 
+I am a Project Support Officer with a first-class bachelor's degree in computing and a certified software engineer. I aspire to build a career in software development, software engineering, web development, or mobile application development. I have actively participated in the development of various projects, both in software and administration. I am enthusiastic about applying my current skills, knowledge, experience, and passion
+for Python, Java, SQLite, MySQL, Microsoft SQL Server, SQLite, and many more that I will be listing below.
 ## Some of my skills 🧠 
 
 |CODING LANGUAGES|TECHNOLOGIES   |SPOKEN LANGUAGES                                 |
@@ -21,8 +22,10 @@ My name is Angel, I am a computing graduate with a first-class honours degree fr
 |JQUERY          |NetBeans       ||
 |XML             |Xampp          ||
 |SQLite          |Android Studio ||
+|SQL             |Microsoft SQL Server||
+|LinQ            |MySQL          ||
 
 ## Interests 💭
-I have a keen interest in computing science and technology, because of the benefits they bring to society. I have built, customize and upgrade my own computers. Currently I am working on a project based on an android application that teaches how to properly pronounce words in English/Spanish. I was part of the university of Greenwich computing society volunteering as ambassador mentoring and supporting other students.
+I have a keen interest in computing science and technology, because of the benefits they bring to society. I build, customize, and upgrade my computers. Currently, I am working on a project based on an Android application that teaches how to properly pronounce words in English/Spanish. I was part of the University of Greenwich Computing Society volunteering as an ambassador mentoring and supporting other students.
 ## How to reach me 📫
 Email: agd.jobs2000@hotmail.com
